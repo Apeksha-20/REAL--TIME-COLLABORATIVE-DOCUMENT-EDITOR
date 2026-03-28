@@ -1,0 +1,187 @@
+# Smart Text Editor 📝
+
+## Project Overview
+
+The **Smart Text Editor** is a web-based document editing application that allows users to write, edit, format, and manage text documents directly in the browser. The editor provides features similar to modern online editors like Google Docs, allowing users to apply formatting such as bold, italic, underline, lists, and more.
+
+The application also supports **word counting, document saving, PDF export, and auto-save functionality**, making it a useful productivity tool for writing notes, documents, and reports.
+
+This project was developed as part of a **Full Stack Web Development internship** project.
+
+---
+
+## Features 🚀
+
+### Text Formatting
+
+* Bold text formatting
+* Italic text formatting
+* Underline text formatting
+* Bullet list creation
+
+### Document Editing
+
+* Real-time text editing
+* Content editable editor interface
+* Clean and responsive UI
+
+### Document Management
+
+* Save documents using Local Storage
+* Open previously saved documents
+* Clear editor content
+
+### Export Options
+
+* Export document as PDF
+* Download written content
+
+### Additional Functionalities
+
+* Word counter
+* Auto-save feature
+* Responsive design
+* Simple toolbar interface
+
+---
+
+## Technologies Used 💻
+
+### Frontend
+
+* React.js
+* HTML5
+* CSS3
+* JavaScript
+
+### Libraries
+
+* jsPDF (for exporting documents to PDF)
+
+### Backend
+
+* Node.js
+* Express.js
+
+### Database
+
+* MongoDB
+
+---
+
+## Project Structure 📂
+
+```
+task-3
+│
+├── client
+│   ├── src
+│   │   ├── App.js
+│   │   ├── Editor.js
+│   │   ├── App.css
+│   │   └── index.js
+│   │
+│   ├── public
+│   ├── package.json
+│
+├── server
+│   ├── server.js
+│   ├── routes
+│   ├── models
+│   └── package.json
+│
+└── README.md
+```
+
+---
+
+## Installation and Setup ⚙️
+
+### Step 1: Clone the Repository
+
+```
+git clone https://github.com/your-username/smart-text-editor.git
+```
+
+### Step 2: Navigate to Project Folder
+
+```
+cd task-3
+```
+
+### Step 3: Install Client Dependencies
+
+```
+cd client
+npm install
+```
+
+### Step 4: Install Server Dependencies
+
+```
+cd ../server
+npm install
+```
+
+### Step 5: Run Backend Server
+
+```
+npm start
+```
+
+Server will run on:
+
+```
+http://localhost:5000
+```
+
+### Step 6: Run Frontend Application
+
+Open a new terminal:
+
+```
+cd client
+npm start
+```
+
+Application will run on:
+
+```
+http://localhost:3000
+```
+
+---
+
+## How It Works ⚡
+
+1. User writes text in the editor.
+2. Toolbar buttons apply formatting using JavaScript commands.
+3. Word count updates automatically as the user types.
+4. Documents can be saved and reopened using local storage.
+5. Users can export their written content as a PDF file.
+
+---
+
+## Future Improvements 🔮
+
+* Image insertion support
+* Text color and highlighting tools
+* Rich text formatting options
+* Cloud document storage
+* User authentication system
+* Real-time collaborative editing
+
+---
+
+## Author 👨‍💻
+
+**Name:** Apekṣha Raju Chavan
+**Domain:** Full Stack Web Development
+**Internship:** CODTECH IT SOLUTIONS
+**Duration:** 12 Weeks
+
+---
+
+## License 📄
+
+This project is developed for educational and internship purposes.
