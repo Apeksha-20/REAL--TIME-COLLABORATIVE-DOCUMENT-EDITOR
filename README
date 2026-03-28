@@ -1,12 +1,18 @@
-# Smart Text Editor 📝
+## Author 👨‍💻
+
+**Name:** Apekṣha Raju Chavan
+**Domain:** Full Stack Web Development
+**Internship:** CODTECH IT SOLUTIONS
+**Duration:** 12 Weeks
+** Mentor : Neela Santosh Kumar
+# Real -Time Documnet Editor 📝
 
 ## Project Overview
 
-The **Smart Text Editor** is a web-based document editing application that allows users to write, edit, format, and manage text documents directly in the browser. The editor provides features similar to modern online editors like Google Docs, allowing users to apply formatting such as bold, italic, underline, lists, and more.
-
-The application also supports **word counting, document saving, PDF export, and auto-save functionality**, making it a useful productivity tool for writing notes, documents, and reports.
-
-This project was developed as part of a **Full Stack Web Development internship** project.
+ Real -Time Documnet Editor  is a web-based document editing application that allows users to write, edit, format, and manage text documents directly in the
+browser. The editor provides features similar to modern online editors like Google Docs, allowing users to apply formatting such as bold, italic, underline, lists, and more.
+The application also supports **word counting, document saving, PDF export, and auto-save functionality**, making it a useful productivity tool for writing notes,
+documents, and reports.This project was developed as part of a **Full Stack Web Development internship** project.
 
 ---
 
@@ -173,14 +179,6 @@ http://localhost:3000
 
 ---
 
-## Author 👨‍💻
-
-**Name:** Apekṣha Raju Chavan
-**Domain:** Full Stack Web Development
-**Internship:** CODTECH IT SOLUTIONS
-**Duration:** 12 Weeks
-
----
 
 ## License 📄
 
